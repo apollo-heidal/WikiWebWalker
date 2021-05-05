@@ -1,0 +1,16 @@
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker.deps.json
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker.runtimeconfig.json
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker.runtimeconfig.dev.json
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker.dll
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/ref/WikiWebWalker.dll
+/home/apollo/wiki-web-walker/bin/Debug/net5.0/WikiWebWalker.pdb
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.csprojAssemblyReference.cache
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.GeneratedMSBuildEditorConfig.editorconfig
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.AssemblyInfoInputs.cache
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.AssemblyInfo.cs
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.csproj.CoreCompileInputs.cache
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.dll
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/ref/WikiWebWalker.dll
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.pdb
+/home/apollo/wiki-web-walker/obj/Debug/net5.0/WikiWebWalker.genruntimeconfig.cache
