@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYePJw6fJfCy626PUskk7poJPmLvn+g3wdp60zCGPn05HfQIXzzW6xDf4+uAGyXZyMQkg2/ZF4b3HlNPJsJ0MA==",
+  "dgSpecHash": "9xarfG4PF63JkNfYvXjJxlUWN/WMdD/s80qocAs8wTFEtB4fBZr1mow0axIM4asL/I5BC6WPXi8IARrIsyjsMA==",
   "success": true,
-  "projectFilePath": "/home/apollo/wiki-web-walker/WikiWebWalker.csproj",
+  "projectFilePath": "C:\\Users\\Billy\\wiki-web-walker\\WikiWebWalker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
