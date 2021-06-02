@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/apollo/wiki-web-walker/WikiWebWalker.csproj": {}
+    "C:\\Users\\Billy\\wiki-web-walker\\WikiWebWalker.csproj": {}
   },
   "projects": {
-    "/home/apollo/wiki-web-walker/WikiWebWalker.csproj": {
+    "C:\\Users\\Billy\\wiki-web-walker\\WikiWebWalker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apollo/wiki-web-walker/WikiWebWalker.csproj",
+        "projectUniqueName": "C:\\Users\\Billy\\wiki-web-walker\\WikiWebWalker.csproj",
         "projectName": "WikiWebWalker",
-        "projectPath": "/home/apollo/wiki-web-walker/WikiWebWalker.csproj",
-        "packagesPath": "/home/apollo/.nuget/packages/",
-        "outputPath": "/home/apollo/wiki-web-walker/obj/",
+        "projectPath": "C:\\Users\\Billy\\wiki-web-walker\\WikiWebWalker.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\wiki-web-walker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/apollo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
